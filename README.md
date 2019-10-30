@@ -8,3 +8,4 @@ Make sure to add your name at the beginning of your file.
 For any doubts just check the master.py file and follow that pattern.
 
 ## Happy Coding!!!
+and peace
